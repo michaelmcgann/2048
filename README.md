@@ -1,2 +1,1 @@
-# 2048
-Console version of the game 2048
+This is a console version of the game 2048 that I have developed. While it might appear basic in its aesthetics, the primary objective of this project was to delve a bit deeper into programming logic, get hands-on practice with creating classes, and utilize list comprehension, among other tasks. These concepts seemed a little daunting at first, but after dedicating considerable time and effort to understand and implement them, I can confidently say that I have completed this project with a slightly enhanced skillset.
